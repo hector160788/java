@@ -2,7 +2,7 @@ package tipodedatos.principal;
 
 public class TiposDeDatosPrimitivos {
 	
-
+//creado por hector camargo
 	    public static void main(String[] args) {
 	        // 1. byte - Entero de 8 bits
 	        byte ejemploByte = 100;
