@@ -4,6 +4,13 @@ public class TiposDeDatosPrimitivos {
 	
 //creado por hector camargo
 	    public static void main(String[] args) {
+	    	/*
+	    	 * Las variables en Java son contenedores para almacenar datos que 
+	    	 * pueden cambiar a lo largo de la ejecución del programa. 
+	    	 * Se definen por un tipo de dato, un nombre, y pueden recibir un valor 
+	    	 * que se puede modificar o utilizar según las necesidades del programa.
+	    	 * */
+	    	
 	        // 1. byte - Entero de 8 bits
 	        byte ejemploByte = 100;
 	        System.out.println("byte:");
