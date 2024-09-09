@@ -2,7 +2,7 @@ package tipodedatos.principal;
 
 public class TiposDeDatosPrimitivos {
 	
-
+//creado por hector camargo
 	    public static void main(String[] args) {
 	    	/*
 	    	 * Las variables en Java son contenedores para almacenar datos que 
